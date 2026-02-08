@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello, my name is Ivelin, a Fullstack developer, pursuing his Bachelor degree in ICT & Software Engineering at the Fontys university of applied sciences in Eindhoven, The Netherlands.
+# 🧑🏻‍💻 About Me:
+Hello, my name is Ivelin, a Fullstack developer from Burgas, Bulgaria. I am currently pursuing a Bachelor degree in ICT & Software Engineering at Fontys university of applied sciences in Eindhoven, The Netherlands.
 
 
 ## 🌐 Socials:
